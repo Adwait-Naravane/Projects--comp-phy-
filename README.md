@@ -1,2 +1,2 @@
 # Projects--comp-phy-
-repo for comp phy projects
+repo for Computational Physics projects
